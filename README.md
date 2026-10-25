@@ -1,2 +1,15 @@
-# tiledeck
-Keyboard-friendly window tiling for Mac.
+# tiledeck（仮名）
+
+**ウィンドウ整列**
+
+## 課題（Mac標準の不便）
+Sequoiaの標準タイルは隙間やキー操作に不満が残る。
+
+## 計画している機能
+- キーボード中心のタイル配置
+- 隙間なしレイアウト
+- 複数モニター対応
+
+## ステータス
+仮名・構想段階。2026-10-26に「Mac標準の足りないところ」候補としてリポジトリを作成。
+出典リスト: ~/workspace/apps/macos-builtin-pain-points.md
